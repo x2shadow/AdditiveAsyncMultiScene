@@ -1,7 +1,5 @@
 # AdditiveAsyncMultiScene
 
-## Overview
-
 Made by video from git-amend Youtube channel
 
 ### Requirements
